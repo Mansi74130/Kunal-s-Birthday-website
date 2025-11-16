@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Happy Birthday ❤️</title>
+    <style>
+        body {
+            background: pink;
+            text-align: center;
+            font-family: Arial;
+            padding-top: 50px;
+        }
+        h1 { font-size: 45px; color: red; }
+        p { font-size: 22px; }
+    </style>
+</head>
+<body>
+    <h1>Happy Birthday My Love ❤️</h1>
+    <p>You are the most special person in my life 💖</p>
+</body>
+</html>
